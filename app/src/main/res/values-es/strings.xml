@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Modulo6P1</string>
+
+    <string name="no_songs">¡Agrega una canción!</string>
+    <string name="add_song">Agregar canción</string>
+    <string name="my_song">Mi canción</string>
+
+    <string name="song_icon">Icon</string>
+    <string name="song_title">Titulo</string>
+    <string name="song_artist">Artista</string>
+    <string name="song_album">Álbum</string>
+    <string name="song_genre">Genero</string>
+    <string name="song_year">Año</string>
+    <string name="song_duration">Duracion en segundos</string>
+
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+
+    <!-- Messages-->
+    <string name="ok">OK</string>
+    <string name="error">error</string>
+    <string name="e_save_song">Error al guardar la canción.</string>
+    <string name="o_save_song">Canción guardada exitosamente.</string>
+    <string name="e_update_song">Error al actualizar la canción.</string>
+    <string name="o_update_song">Canción actualizada exitosamente.</string>
+    <string name="e_delete_song">Error al eliminar la canción.</string>
+    <string name="o_delete_song">Canción eliminada exitosamente.</string>
+    <string name="accept">Aceptar</string>
+
+    <string name="field_len">El campo debe tener mas de 2 caracteres.</string>
+    <string name="year_valid">El año no es valido, debe estar entre 1500 y 2025, verifique por favor.</string>
+    <string name="duration_valid">La duracion de la canción no es valida, debe ser entre 60 y 6000, verifique por favor.</string>
+
+    <!--Alert-->
+    <string name="confirmation">Confirmación</string>
+    <string name="delete_confirmation">¿Realmente deseas eliminar la canción %1$s?</string>
+
+    <!-- lista de generos-->
+    <string-array name="Genres">
+        <item>Clasica</item>
+        <item>Disco</item>
+        <item>Electronica</item>
+        <item>Rap</item>
+        <item>Reggae</item>
+        <item>Rock</item>
+    </string-array>
+
+</resources>

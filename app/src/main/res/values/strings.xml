@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Modulo6P1</string>
+
+    <string name="no_songs">Add a song!</string>
+    <string name="add_song">Add song</string>
+    <string name="my_song">My song</string>
+
+    <string name="song_icon">Icon</string>
+    <string name="song_title">Title</string>
+    <string name="song_artist">Artist</string>
+    <string name="song_album">Album</string>
+    <string name="song_genre">Genre</string>
+    <string name="song_year">Year</string>
+    <string name="song_duration">Duration in seconds</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <!-- Messages-->
+    <string name="ok">OK</string>
+    <string name="error">error</string>
+    <string name="e_save_song">Error saving the song.</string>
+    <string name="o_save_song">Song saved successfully.</string>
+    <string name="e_update_song">Error updating the song.</string>
+    <string name="o_update_song">Song updated successfully.</string>
+    <string name="e_delete_song">Error deleting the song.</string>
+    <string name="o_delete_song">Song deleted successfully.</string>
+    <string name="accept">Accept</string>
+
+    <string name="field_len">The field must have more than 2 characters.</string>
+    <string name="year_valid">The year is not valid, it must be between 1500 and 2025, please check.</string>
+    <string name="duration_valid">The song duration is not valid, It must be between 60 and 6000, please check.</string>
+
+    <!-- Alert-->
+    <string name="confirmation">Confirmation</string>
+    <string name="delete_confirmation">Are you sure you want to delete the song %1$s?</string>
+
+    <!-- list of genres-->
+    <string-array name="Genres">
+        <item>Classical</item>
+        <item>Disco</item>
+        <item>Electronic</item>
+        <item>Rap</item>
+        <item>Reggae</item>
+        <item>Rock</item>
+    </string-array>
+
+</resources>
