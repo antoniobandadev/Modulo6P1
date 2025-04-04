@@ -39,9 +39,9 @@
 
     <!-- list of genres-->
     <string-array name="Genres">
-        <item>Classical</item>
+        <item>Clasica</item>
         <item>Disco</item>
-        <item>Electronic</item>
+        <item>Electronica</item>
         <item>Rap</item>
         <item>Reggae</item>
         <item>Rock</item>
