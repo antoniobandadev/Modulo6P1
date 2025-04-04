@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun addSong() {
+    fun addSong(view: View) {
         val dialog = SongDialog(
             updateUI = {
                 updateUI()
